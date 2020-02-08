@@ -1,5 +1,5 @@
 def multiply(x,y):
-    n= max(len(x), len(y))
+    n = max(len(x), len(y))
     if n<=1 :
         return x*y
     else:
